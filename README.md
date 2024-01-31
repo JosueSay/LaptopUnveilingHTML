@@ -24,7 +24,7 @@ El proyecto incluye varios finales dependiendo de las decisiones que tomes duran
   [Repositorio en GitHub](https://github.com/JosueSay/LaptopUnveilingHTML)
 
 - **Servidor de la Clase:**
-  [Proyecto en el Servidor](http:)
+  [Proyecto en el Servidor](https://tiburoncin.lat/22801/lab3/LaptopUnveilingHTML/index.html)
 
 ## 🐳 Imagen de Docker
 
